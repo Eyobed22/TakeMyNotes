@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/TakeMyNotes/static/css/main.ac0fdacb.css",
-    "main.js": "/TakeMyNotes/static/js/main.5eb252ea.js",
+    "main.js": "/TakeMyNotes/static/js/main.c0b9a71e.js",
     "index.html": "/TakeMyNotes/index.html",
     "main.ac0fdacb.css.map": "/TakeMyNotes/static/css/main.ac0fdacb.css.map",
-    "main.5eb252ea.js.map": "/TakeMyNotes/static/js/main.5eb252ea.js.map"
+    "main.c0b9a71e.js.map": "/TakeMyNotes/static/js/main.c0b9a71e.js.map"
   },
   "entrypoints": [
     "static/css/main.ac0fdacb.css",
-    "static/js/main.5eb252ea.js"
+    "static/js/main.c0b9a71e.js"
   ]
 }
