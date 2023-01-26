@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TakeMyNotes/static/css/main.7f985d4b.css",
+    "main.js": "/TakeMyNotes/static/js/main.5eb252ea.js",
+    "index.html": "/TakeMyNotes/index.html",
+    "main.7f985d4b.css.map": "/TakeMyNotes/static/css/main.7f985d4b.css.map",
+    "main.5eb252ea.js.map": "/TakeMyNotes/static/js/main.5eb252ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f985d4b.css",
+    "static/js/main.5eb252ea.js"
+  ]
+}
